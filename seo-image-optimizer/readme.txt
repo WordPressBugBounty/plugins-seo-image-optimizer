@@ -3,8 +3,8 @@ Contributors: weblizar
 Donate link: https://www.weblizar.com
 Tags: image, resize, optimize, optimize, compress, seo, blog seo, seo images optimization, images optimization, wordpress seo, image optimize, image seo
 Requires at least: 7.4
-Tested up to: 6.6.2
-Stable tag: 1.3.9
+Tested up to: 6.7.2
+Stable tag: 1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,7 +45,6 @@ Image Optimization For Seo is the wordPress plugin. This plugin Resize and Compr
 = Live Image Optimization For Seo Pro Demos =
 
 * [Image Optimization For Seo Demo](http://demo.weblizar.com/seo-image-optimizer-pro/)
-* [Image Optimization For Seo Admin Demo](http://demo.weblizar.com/seo-image-optimizer-pro-admin-demo)
 * **Username:** userdemo
 * **Password:** userdemo
 
@@ -80,6 +79,12 @@ Please use WordPress support forum to ask any query regarding any issue.
 3. SEO Image ALT Settings
 4. SEO Image Re-Size Settings
 5. SEO Image Compress Settings
+
+== Changelog ==
+= 1.4.0 =[04-03-2025]
+* Update documentation link.
+* Tested upto wordpress 6.7.2
+* Tested upto php 8.3.3
 
 == Changelog ==
 = 1.3.9 =[15-10-2024]

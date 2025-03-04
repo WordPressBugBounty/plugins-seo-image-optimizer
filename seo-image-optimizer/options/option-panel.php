@@ -54,7 +54,7 @@ function wsio_option_panal_function() {
 			</div>
 			<div class="col-md-4 col-sm-4 search1">
 				<a href="https://wordpress.org/support/plugin/seo-image-optimizer/" target="_blank"><span class="far fa-comment"></span><?php esc_html_e( ' Support Forum', WSIO_TEXT_DOMAIN ); ?></a>
-				<a href="https://weblizar.com/documentation/plugins/seo-images-optimizer-pro/" target="_blank"><span class="far fa-edit"></span> <?php esc_html_e( ' View Documentation', WSIO_TEXT_DOMAIN ); ?></a>
+				<a href="https://weblizar.com/plugins/seo-image-optimizer-pro/" target="_blank"><span class="far fa-edit"></span> <?php esc_html_e( ' View Documentation', WSIO_TEXT_DOMAIN ); ?></a>
 			</div>
 		</div>
 	</header>
