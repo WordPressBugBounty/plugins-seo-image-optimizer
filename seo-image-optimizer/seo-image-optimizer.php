@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Image Optimization For SEO
  * Description:       Image Optimization For Seo is the WordPress plugin. This plugin Resize and Compress the images to boost your site speed. It's also replaces the title and alt tag of images.
- * Version:           1.4.3
+ * Version:           1.4.4
  * Author:            Weblizar
  * Text Domain:       seo_images_optimizer
  * Author URI:        https://weblizar.com/

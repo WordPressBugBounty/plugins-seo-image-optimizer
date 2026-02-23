@@ -3,8 +3,8 @@ Contributors: weblizar
 Donate link: https://www.weblizar.com
 Tags: Image Optimization, SEO, Compress Images, WordPress SEO, Resize Images
 Requires at least: 7.4
-Tested up to: 6.9
-Stable tag: 1.4.3
+Tested up to: 6.9.1
+Stable tag: 1.4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,6 +81,10 @@ Please use WordPress support forum to ask any query regarding any issue.
 5. SEO Image Compress Settings
 
 == Changelog ==
+= 1.4.4 =[23-02-2026]
+* Tested upto wordpress 6.9.1
+* Tested upto php 8.5.1
+
 = 1.4.3 =[10-12-2025]
 * Tested upto wordpress 6.9
 * Tested upto php 8.4
